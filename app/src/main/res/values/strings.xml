@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rotten Tomatoes</string>
+    <string name="search">Search</string>
+    <string name="accessibility_progress_indicator">In Progress</string>
+
+    <string name="error_timeout">Connection timed out.</string>
+    <string name="error_network">Connection failed.</string>
+
+    <string name="info_format">%1$s - %2$s minutes</string>
+
+    <string name="movie_item_transition_event">movie_item_transition</string>
+
+</resources>
